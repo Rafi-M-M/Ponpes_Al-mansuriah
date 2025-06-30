@@ -1,0 +1,9 @@
+body.bg-admin-dashboard {
+        background: url('/img/gambar_depan_pondok.jpeg') no-repeat center center fixed;
+        background-size: cover;
+    }
+    .bg-blur-admin {
+        backdrop-filter: blur(2px) brightness(0.97);
+        background: rgba(255,255,255,0.8);
+        border-radius: 1.5rem;
+    }
